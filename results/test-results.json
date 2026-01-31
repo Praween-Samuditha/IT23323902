@@ -1,0 +1,13 @@
+{
+  "executedAt": "2026-01-31T13:42:53.978Z",
+  "results": [
+    {
+      "tcId": "Pos_UI_0001",
+      "name": "Clear input resets Sinhala output",
+      "input": "After clicking Clear, Singlish input should empty and Sinhala output should also clear/reset",
+      "expected": "Output cleared and reset correctly",
+      "actual": "After clicking Clear, සින්ග්ලිශ් input should empty and Sinhala output should also clear/reset",
+      "status": "Fail"
+    }
+  ]
+}
